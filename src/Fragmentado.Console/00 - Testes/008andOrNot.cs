@@ -1,0 +1,1 @@
+// Exercício 7 (aula03operadoreslogicos/ex01andornot e ex03umacem): pode agir? Só com bool, sem if. Crie podeSocializar (Energia e Dinheiro acima de mínimos seus, com &&), podeDescansar (algum status abaixo de um limite seu, com ||), naoEsgotado (com !) e a validação de 0 a 100 para a Afinidade.

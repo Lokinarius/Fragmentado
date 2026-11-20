@@ -1,0 +1,1 @@
+// Exercício 8 (aula03operadoreslogicos/ex04senhaeacesso): acesso ao Caos. Leia a máscara equipada (texto) e calcule acessoCaos: máscara igual a "Saturno" e Sanidade maior que 0. O seu Java usava .equals("Admin"), e aqui é ==.

@@ -1,0 +1,1 @@
+// Exercício 5 (aula01tiposprimitivo/ex02casting e ex05temperatura): Caos e dano. Leia danoBase e caos no lugar dos valores fixos, calcule o dano final com a fórmula acima e mostre o multiplicador e o dano. Preveja antes de rodar e teste com Caos 0, 35 e 100. Depois tire o (int) e leia o erro do compilador (CS0266).

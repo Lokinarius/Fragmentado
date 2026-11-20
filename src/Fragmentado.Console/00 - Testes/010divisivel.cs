@@ -1,0 +1,1 @@
+// Exercício 9 (aula04operadoresrelacionais/ex02divisivel e aula03operadoreslogicos/ex02parepositivo): calendário. Com int diaDoAno = 100;, calcule as semanas completas (/ 7), o dia da semana (% 7, de 0 a 6) e viradaDeSemana (divisível por 7). Preveja antes de rodar. É o embrião do calendário de um ano.

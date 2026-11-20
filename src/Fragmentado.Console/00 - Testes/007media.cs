@@ -1,0 +1,3 @@
+// Exercício 6 (aula02manipulacaodedados/ex02media): nível social médio. Com os cinco Status Sociais (Disciplina, Carisma, Autoestima, Reputação e Empatia, com valores seus), calcule a média primeiro em int e depois em double (soma / 5.0). Compare os dois resultados e mostre a média com 1 casa decimal.
+//Etapa 5: Conceito novo, comparação e operadores lógicos. Comparar (==, !=, <, >, <=, >=) produz sempre um bool, e &&, || e ! combinam bools, como no Java. A diferença é que, no C#, == entre textos compara o conteúdo, então não precisa de .equals().
+// O C# imprime True e False com inicial maiúscula. Cuidado: = guarda um valor, e == compara. Para testar, troque energia -= 30 por energia -= 130 e veja o que acontece com esgotado.
